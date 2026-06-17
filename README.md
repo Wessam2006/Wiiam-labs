@@ -9,8 +9,6 @@ Team members:
 - Wessam Waleed (1230128)
 
 
- Date: May of 2026
-
 
 ##  Quick Start
 Follow these steps to run the project locally:
