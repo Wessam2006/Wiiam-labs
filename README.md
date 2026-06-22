@@ -176,7 +176,7 @@ Inside **Admin Portal → Export Data**:
 ## Gallery
 
 ### Home Page
-![Home Page](homepagescrreenschor.png)
+![Home Page](homepagescreenschor.png)
 
 ### Admin Portal
 ![Admin Portal](labresultviewer.png)
