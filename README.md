@@ -3,10 +3,11 @@
 This project is a frontend medical laboratory management website designed to simplify test booking, result viewing, and laboratory operations.
 
 Team members: 
-- Ashraqat Ahmed (1230160)  
-- Israa Mohamed (4240006) 
-- Malak Mohamed (1230265) 
-- Wessam Waleed (1230128)
+- Wessam Waleed 
+- Ashraqat Ahmed  
+- Israa Mohamed 
+- Malak Mohamed  
+
 
 
 
@@ -172,3 +173,11 @@ Inside **Admin Portal → Export Data**:
 ***
 
  *WIA'AM LABS group project - 2026*
+## Gallery
+
+### Home Page
+![Home Page](homepagescrreenschor.png)
+
+### Admin Portal
+![Admin Portal](labresultviewer.png)
+ 
