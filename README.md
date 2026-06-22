@@ -53,7 +53,7 @@ Password: doc123
 ### Home Page
 The landing page introduces WIA'AM LABS. Patients can read about services, browse popular tests, and meet the specialists. Use the navbar or the CTA buttons to move to other sections.
 
-![homepage](screenshots/homepage.png)
+
 
 ### Booking Appointments
 Click **"Book a Test"** in the navbar on the home page. You must be logged in first. The booking flow has 3 steps:
@@ -61,7 +61,6 @@ Click **"Book a Test"** in the navbar on the home page. You must be logged in fi
 2. Pick a date, time slot, and branch location
 3. Review and confirm
 
-![homepage](screenshots/booking.png)
 
 ```js
 // A confirmed booking is stored as (cleaned up for simplification purposes):
@@ -81,12 +80,10 @@ After logging in, go to **My Portal -> My Results**. Each result row can be expa
 ### Managing Your Profile + Bookings
 Inside the Patient Portal, use the **My Bookings** tab to see upcoming appointments and the **My Profile** tab to review your personal information.
 
-![homepage](screenshots/pp.png)
 
 ### Specialist Portal
 Specialists log in using their clinic credentials. Their portal shows a weekly schedule calendar and a full list of upcoming patient appointments.
 
-![homepage](screenshots/sp.png)
 
 ### Admin Portal
 Admins access five management tabs:
@@ -101,15 +98,7 @@ Admins access five management tabs:
 ### Submitting an Inquiry
 If a user has a concern, they can go to the **Contact** page, select a category, *optionally* click a prompt to auto-fill your message, fill in the form, and hit **Send**. Your inquiry will appear instantly in the Admin Portal under Patient Inquiries.
 
-![homepage](screenshots/inquire.png) 
 
-## Work Distribution
-| Member | Responsible for |
-|---------|-----------------|
-**Ashraqat**| Home page, About, Our Tests |
-**Wessam** | Specialists, Book a Test, Contact |
-**Malak** | Authentication, Patient Portal, DB|
-**Israa** | Specialist Portal, Admin Portal, DB|
 
 ## Build order:
 ```js
